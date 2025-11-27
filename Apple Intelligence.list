@@ -1,3 +1,7 @@
+# Apple Intelligence / Siri relay & inference related domains
+# 用于分流或策略匹配
+# Last updated: 2025-11-27
+
 DOMAIN-SUFFIX,guzzoni.apple.com
 DOMAIN-SUFFIX,smoot.apple.com
 DOMAIN-SUFFIX,apple-relay.cloudflare.com
