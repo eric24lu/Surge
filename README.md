@@ -33,4 +33,4 @@ AppleIntelligence = https://raw.githubusercontent.com/eric24lu/Surge/main/AppleI
 列表仅供个人学习与网络访问优化使用，不保证完整性或绝对准确性。
 
 ## 许可
-暂未指定 License（如需可添加 MIT / Apache-2.0）。
+本项目采用 MIT License，详见 LICENSE 文件。
