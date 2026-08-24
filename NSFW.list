@@ -18,9 +18,10 @@ DOMAIN-SUFFIX,onlyfans.com
 DOMAIN-SUFFIX,fansly.com
 
 # 日本站点
-DOMAIN-WILDCARD,jav?*.*
-DOMAIN-WILDCARD,jdb?*.*
+DOMAIN-WILDCARD,*jav?*.*
+DOMAIN-WILDCARD,*jdb?*.*
 DOMAIN-KEYWORD,jable
+DOMAIN-SUFFIX,jdforrepam.com
 DOMAIN-SUFFIX,029xxj.com
 DOMAIN-SUFFIX,gzankun.com
 DOMAIN-SUFFIX,dmm.co.jp
